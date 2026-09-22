@@ -1,8 +1,8 @@
 # 中膳 AI 战略 V2.5 演示稿
 
-[直接打开在线演示（无需下载）](https://zs-ai-strategy-v25-presentation.kacejaranke.chatgpt.site/)
+[直接打开 63 页在线演示](https://magicdalazy-star.github.io/zs-ai-strategy-v2.5-offline/)
 
-63 页 HTML 演示稿，含 63 条讲者备注、图片与样式资源，以及两段案例视频。在线演示需要网络连接。
+网页包含 63 页演示、讲者备注和图片。两段案例视频从 GitHub Release 加载，观看视频需要网络连接。
 
 ## 下载离线包
 
